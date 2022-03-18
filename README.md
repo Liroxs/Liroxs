@@ -7,7 +7,7 @@
 
 ## À propos de moi
 
-- <img src = "https://cdn.discordapp.com/emojis/925058530568994816.webp?size=96&quality=lossless" width = 100px> </h1> J'apprends actuellement le JavaScript , Python et C++
+- <img src = "https://cdn.discordapp.com/emojis/925058530568994816.webp?size=96&quality=lossless" width = 10px> </h1> J'apprends actuellement le JavaScript , Python et C++
 - 👯 Je collabore principalement avec "Kirua.#1330 sur discord.
 - 📙 Mon serveur discord si cela vous interresse : https://discord.gg/8kXPNWWTK9 
 
