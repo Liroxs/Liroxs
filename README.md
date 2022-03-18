@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Salut! Je suis Tthfr. Merci d'avoir pris le temps de consulter mon profil GitHub 🎁
+<div size='20px'> Bonjour ! Je m'appelle Lirox's . Merci d'avoir pris le temps de consulter mon profil GitHub 🎁
 </div>
 
 ## À propos de moi
