@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='50px'> Bonjour ! Je m'appelle Lirox's . Merci d'avoir pris le temps de consulter mon profil GitHub <img src = "https://cdn.discordapp.com/emojis/875458502712242248.webp?size=96&quality=lossless"
+<div size='20px'> Bonjour ! Je m'appelle Lirox's . Merci d'avoir pris le temps de consulter mon profil GitHub <img src = "https://cdn.discordapp.com/emojis/875458502712242248.webp?size=96&quality=lossless"
 </div>
 
 ## À propos de moi
