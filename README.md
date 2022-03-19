@@ -1,7 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1> Bonjour, <img src = "https://cdn.discordapp.com/emojis/902587767693901894.gif?size=96&quality=lossless" width = 50px> </h1>
 <p align='center'>
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
 <div size='20px'> Bonjour ! Je m'appelle Lirox's . Merci d'avoir pris le temps de consulter mon profil GitHub <img src = "https://cdn.discordapp.com/emojis/875458502712242248.webp?size=96&quality=lossless"
 </div>
