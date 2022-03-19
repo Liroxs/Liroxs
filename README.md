@@ -77,4 +77,3 @@ language badges:
 ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
---><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
