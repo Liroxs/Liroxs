@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 <h1> Bonjour, <img src = "https://cdn.discordapp.com/emojis/902587767693901894.gif?size=96&quality=lossless" width = 50px> </h1>
 <p align='center'>
 
