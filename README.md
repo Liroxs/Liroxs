@@ -7,8 +7,8 @@
 
 ## À propos de moi
 
-- <img src = "https://cdn.discordapp.com/emojis/925058530568994816.webp?size=96&quality=lossless" width = 20px> </h1> J'apprends actuellement le JavaScript , Python et C++
-- 👯 Je collabore principalement avec "Kirua.#1330 sur discord.
+- <img src = "https://cdn.discordapp.com/emojis/925058530568994816.webp?size=96&quality=lossless" width = 20px> </h1> J'apprends actuellement Python, C++ et Cybersecurity
+- 👯 J'apprends principalement avec "Kirua.#1330 sur discord.
 - <img src = "https://cdn.discordapp.com/emojis/852209420666404916.webp?size=96&quality=lossless" width = 20px> </h1> Mon serveur discord si cela vous interresse : https://discord.gg/8kXPNWWTK9 
 
    
