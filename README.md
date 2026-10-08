@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/modules.svg" width="100%" alt="Currently learning: systems, networks, cybersecurity, OSINT, Linux, Python"/>
+<img src="assets/skills.svg" width="100%" alt="Skills: IT support, systems, networks, cybersecurity, OSINT"/>
 
 <br/><br/>
 
