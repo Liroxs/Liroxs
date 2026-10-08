@@ -12,9 +12,23 @@
 
 <br/><br/>
 
+<img src="assets/proc_title.svg" width="100%" alt="Processes"/>
+
+<br/>
+
 <a href="https://github.com/Liroxs/pylens">
-  <img src="assets/processes.svg" width="100%" alt="Active processes: pylens, an OSINT image search engine"/>
+  <img src="assets/proc_pylens.svg" width="100%" alt="pylens, an OSINT image search engine (Python)"/>
 </a>
+
+<br/>
+
+<a href="https://github.com/Liroxs/Encrypt">
+  <img src="assets/proc_encrypt.svg" width="100%" alt="£ncrypt, a small Python desktop app to hash strings"/>
+</a>
+
+<br/>
+
+<img src="assets/proc_next.svg" width="100%" alt="Next project: loading"/>
 
 <br/><br/>
 
