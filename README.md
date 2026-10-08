@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Liroxs — computer science, cybersecurity and OSINT"/>
+<img src="assets/hero.svg" width="100%" alt="Liroxs — systems and networks, cybersecurity and OSINT"/>
 
 <br/><br/>
 
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/modules.svg" width="100%" alt="Modules loaded: cybersecurity, OSINT, Python, JavaScript, C#, Docker/Linux"/>
+<img src="assets/modules.svg" width="100%" alt="Currently learning: systems, networks, cybersecurity, OSINT, Linux, Python"/>
 
 <br/><br/>
 
